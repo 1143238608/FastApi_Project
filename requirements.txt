@@ -1,3 +1,7 @@
 pydantic~=2.11.4
-fastapi~=0.115.12
+fastapi~=0.115.11
 sqlalchemy~=2.0.41
+sse-starlette~=2.3.3
+requests~=2.32.3
+langchain_deepseek~=0.1.2
+openai~=1.74.0
