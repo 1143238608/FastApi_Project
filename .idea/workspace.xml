@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3dd3ae0-dcd7-4360-b901-35778b5317f7" name="Changes" comment="提交">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/api_v1/parasePdf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/api_v1/pdfs/PSCS-采购.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/api_v1/pdfs/武钢运管机-委外汽运1.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/api/api_v1/chat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/api/api_v1/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/api/api_v1/api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/api/api_v1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/api/api_v1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,7 +257,7 @@
       <workItem from="1748746208774" duration="14646000" />
       <workItem from="1748832038346" duration="4664000" />
       <workItem from="1748840577953" duration="2416000" />
-      <workItem from="1748843390114" duration="2857000" />
+      <workItem from="1748843390114" duration="4126000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <option name="closed" value="true" />
@@ -277,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747461203460</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="提交">
+      <option name="closed" value="true" />
+      <created>1748849413376</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748849413376</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
