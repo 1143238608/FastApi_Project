@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3dd3ae0-dcd7-4360-b901-35778b5317f7" name="Changes" comment="提交">
+      <change beforePath="$PROJECT_DIR$/.idea/fastApiProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fastApiProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/api_v1/output/PSCS-采购/PSCS-采购_layout.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/app/api/api_v1/output/PSCS-采购/PSCS-采购_layout.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/api_v1/output/PSCS-采购/PSCS-采购_spans.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/app/api/api_v1/output/PSCS-采购/PSCS-采购_spans.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +93,7 @@
       <recent name="D:\code\project\FastApi_Project\app" />
     </key>
   </component>
-  <component name="RunManager" selected="FastAPI.FastApi">
+  <component name="RunManager" selected="Python.test">
     <configuration name="test_main | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test_main.http" executionIdentifier="#1" runType="Run single request">
       <method v="2" />
     </configuration>
@@ -220,8 +227,8 @@
     <list>
       <item itemvalue="FastAPI.FastApi" />
       <item itemvalue="HTTP Request.test_main | #1" />
-      <item itemvalue="Python.test" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
@@ -257,7 +264,13 @@
       <workItem from="1748746208774" duration="14646000" />
       <workItem from="1748832038346" duration="4664000" />
       <workItem from="1748840577953" duration="2416000" />
-      <workItem from="1748843390114" duration="4126000" />
+      <workItem from="1748843390114" duration="7312000" />
+      <workItem from="1749265571991" duration="16000" />
+      <workItem from="1749395902189" duration="1014000" />
+      <workItem from="1749559410347" duration="4000" />
+      <workItem from="1750073437544" duration="4365000" />
+      <workItem from="1750088696230" duration="11000" />
+      <workItem from="1750574959118" duration="1640000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <option name="closed" value="true" />
@@ -275,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748849413376</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="提交">
+      <option name="closed" value="true" />
+      <created>1748852469014</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748852469014</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,8 +318,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="提交" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/FastApi_Project$test.coverage" NAME="test Coverage Results" MODIFIED="1747459260255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/FastApi_Project$FastApi.coverage" NAME="FastApi Coverage Results" MODIFIED="1748845525210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/FastApi_Project$test.coverage" NAME="test Coverage Results" MODIFIED="1750088699165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/fastApiProject$fastApiProject.coverage" NAME="fastApiProject Coverage Results" MODIFIED="1747411745487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/fastApiProject$main.coverage" NAME="main Coverage Results" MODIFIED="1747399240041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FastApi_Project$main.coverage" NAME="main Coverage Results" MODIFIED="1747450798457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
